@@ -1,6 +1,6 @@
-[![MasterHead]([https://media.licdn.com/dms/image/C5616AQH3EKKpQEBpWA/profile-displaybackgroundimage-shrink_200_800/0/1517452767210?e=2147483647&v=beta&t=AyIk8LEWblGhsCxrABDC9HGn2hio7aV0hXpsxJYDgGQ](https://moddworks.com/wp-content/uploads/2020/03/kurumsal-web-sitesi-kapak-gorsel.jpg)
+[![MasterHead](https://moddworks.com/wp-content/uploads/2020/03/kurumsal-web-sitesi-kapak-gorsel.jpg)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
