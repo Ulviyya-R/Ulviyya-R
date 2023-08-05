@@ -1,10 +1,10 @@
 ![MasterHead](https://moddworks.com/wp-content/uploads/2020/03/kurumsal-web-sitesi-kapak-gorsel.jpg)
 
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ulviyya rustamova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ulviyya rustamova" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ulviyya-rustamova-89801625a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ulviyya rustamova" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
