@@ -1,4 +1,4 @@
-[![MasterHead](https://moddworks.com/wp-content/uploads/2020/03/kurumsal-web-sitesi-kapak-gorsel.jpg)
+![MasterHead](https://moddworks.com/wp-content/uploads/2020/03/kurumsal-web-sitesi-kapak-gorsel.jpg)
 
 <h3 align="center">Full Stack Developer</h3>
 
